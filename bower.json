@@ -1,0 +1,32 @@
+{
+  "name": "mopidy.js",
+  "description": "Client lib for controlling a Mopidy music server over a WebSocket",
+  "main": "dist/mopidy.js",
+  "authors": [
+    {
+      "name": "Stein Magnus Jodal",
+      "email": "stein.magnus@jodal.no",
+      "url": "http://www.jodal.no"
+    },
+    {
+      "name": "Paul Connolley",
+      "email": "paul.connolley@gmail.com"
+    }
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "mopidy",
+    "music",
+    "client",
+    "websocket",
+    "json-rpc"
+  ],
+  "homepage": "https://github.com/mopidy/mopidy.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
