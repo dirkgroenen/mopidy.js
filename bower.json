@@ -1,5 +1,5 @@
 {
-  "name": "mopidy.js",
+  "name": "mopidy.js-bower",
   "description": "Client lib for controlling a Mopidy music server over a WebSocket",
   "main": "dist/mopidy.js",
   "authors": [
